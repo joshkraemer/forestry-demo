@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Ok
+heading: This is the heading
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -31,4 +31,5 @@ menu:
     identifier: _index
     url: "/"
     weight: 1
+
 ---
